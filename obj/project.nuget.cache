@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0d1ajIdm+JdEQrgv3ZZpIMjSysvK2wF7yur1tnIBb2iBBmsNXHK6K/M5XbhyWdXphBxjUNqspXNGk7TUbAgCtQ==",
+  "dgSpecHash": "CIaRFuDuVMe0h1cDgBXV/YpW0z8D/ueWQEgZoRi6fsjd1JHG+9KmV5rnntYNnAZwJuGnre/FnRW8MoY/LGvEnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\feno.FENO-PC\\source\\repos\\web1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\feno.FENO-PC\\source\\repos\\web1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\feno.FENO-PC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
   ],
